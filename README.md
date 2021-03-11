@@ -1,0 +1,2 @@
+# manifesto
+The Neuropsychomancer Manifesto
