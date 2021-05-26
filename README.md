@@ -1,6 +1,6 @@
 # The Neuropsychomancer Manifesto
 
-Neurpsychomancy is the art of integrating a large number of information in order to accurately predict the behaviour of a person.
+Neuropsychomancy is the art of integrating a large number of information in order to accurately predict the behaviour of a person.
 
 It is an applied branch of psychology focused on the correlates between personality and other measurable features. 
 
