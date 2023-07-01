@@ -1,8 +1,8 @@
 # The Neuropsychomancer Manifesto
 
-Neuropsychomancy is the art of integrating a large number of information in order to accurately predict the behaviour of a person.
+Neuropsychomancy is the scientific art of integrating a large number of information in order to accurately predict a person's patterns of behaviours.
 
-It is an applied branch of psychology focused on the correlates between personality and other measurable features. 
+It is an applied branch of psychology focused on the existing correlationg between personality characteristics and other measurable features. 
 
 
 ```
@@ -23,4 +23,4 @@ Neuropsychomancers use a bespoke visualization format that allows them to integr
 
 ## Training
 
-The goal of neuropsychomancy training is to develop hyperprecise priors allowing for a fast decision making and conclusion-reaching. Importantly, these hyperprecise priors are themselves govnerned by another set of priors in a hierarchical fashion, allowing for the flexibility and subtely required to reject and establish a new model if the evidence is inconclusive.
+The goal of neuropsychomancy training is to develop hyper-precise priors allowing for a fast and efficient decision-making and conclusion-reaching. Importantly, these hyper-precise priors are themselves governed by another set of priors in a hierarchical fashion, allowing for the flexibility and subtlety required to reject and establish a new model if the evidence is inconclusive.
